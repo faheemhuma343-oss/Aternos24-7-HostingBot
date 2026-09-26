@@ -1,25 +1,25 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "AlwaysOnlineBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "skygemnetwork.play.hosting",
     "port": 25565,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 620,
+    "y": 38,
+    "z": 282
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "YourAuthPassword"
     },
     "anti-afk": {
@@ -32,12 +32,12 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "I like to play Minecraft!"
+        "Minecraft Is The Best Game In The World"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 5000,
     "max-reconnect-delay": 120000
   },
   "movement": {
