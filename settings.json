@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 5400,
       "messages": [
-        "I'm a regular player",
-        "Minecraft Is The Best Game In The World"
+        "/stop",
+
       ]
     },
     "chat-log": true,
