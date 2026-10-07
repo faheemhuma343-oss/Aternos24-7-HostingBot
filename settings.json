@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "skygemnetwork.play.hosting",
+    "ip": "skypvpnetwork.play.hosting",
     "port": 25595,
     "version": "",
     "try-creative": false
