@@ -31,8 +31,7 @@
       "repeat": true,
       "repeat-delay": 5400,
       "messages": [
-        "Welcome to SkyPvPNetwork!",
-
+        "Welcome to SkyPvPNetwork!"
       ]
     },
     "chat-log": true,
