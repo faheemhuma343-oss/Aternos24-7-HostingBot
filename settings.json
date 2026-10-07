@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 5400,
       "messages": [
-        "/stop",
+        "Welcome to SkyPvPNetwork!",
 
       ]
     },
